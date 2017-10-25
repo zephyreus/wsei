@@ -1,0 +1,17 @@
+C:\Users\Wiktor\wsei\Dziekanat_WSEI\Dziekanat_WSEI\Dziekanat_WSEI\bin\Debug\Dziekanat_WSEI.dll
+C:\Users\Wiktor\wsei\Dziekanat_WSEI\Dziekanat_WSEI\Dziekanat_WSEI\bin\Debug\Dziekanat_WSEI.pdb
+C:\Users\Wiktor\wsei\Dziekanat_WSEI\Dziekanat_WSEI\Dziekanat_WSEI\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Wiktor\wsei\Dziekanat_WSEI\Dziekanat_WSEI\Dziekanat_WSEI\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Wiktor\wsei\Dziekanat_WSEI\Dziekanat_WSEI\Dziekanat_WSEI\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Wiktor\wsei\Dziekanat_WSEI\Dziekanat_WSEI\Dziekanat_WSEI\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Wiktor\wsei\Dziekanat_WSEI\Dziekanat_WSEI\Dziekanat_WSEI\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Wiktor\wsei\Dziekanat_WSEI\Dziekanat_WSEI\Dziekanat_WSEI\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Wiktor\wsei\Dziekanat_WSEI\Dziekanat_WSEI\Dziekanat_WSEI\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Wiktor\wsei\Dziekanat_WSEI\Dziekanat_WSEI\Dziekanat_WSEI\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Wiktor\wsei\Dziekanat_WSEI\Dziekanat_WSEI\Dziekanat_WSEI\obj\Debug\Dziekanat_WSEI.csprojResolveAssemblyReference.cache
+C:\Users\Wiktor\wsei\Dziekanat_WSEI\Dziekanat_WSEI\Dziekanat_WSEI\obj\Debug\Dziekanat_WSEI.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\wsei\Dziekanat_WSEI\Dziekanat_WSEI\Dziekanat_WSEI\obj\Debug\Dziekanat_WSEI.MainPage.xaml.g.cs
+C:\Users\Wiktor\wsei\Dziekanat_WSEI\Dziekanat_WSEI\Dziekanat_WSEI\obj\Debug\Dziekanat_WSEI.App.xaml.g.cs
+C:\Users\Wiktor\wsei\Dziekanat_WSEI\Dziekanat_WSEI\Dziekanat_WSEI\obj\Debug\Dziekanat_WSEI.dll
+C:\Users\Wiktor\wsei\Dziekanat_WSEI\Dziekanat_WSEI\Dziekanat_WSEI\obj\Debug\Dziekanat_WSEI.pdb
+C:\Users\Wiktor\wsei\Dziekanat_WSEI\Dziekanat_WSEI\Dziekanat_WSEI\obj\Debug\Dziekanat_WSEI.Views.LoginPage.xaml.g.cs

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Dziekanat_WSEI.Views.LoginPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="labelUsername" Text="Username" />
+            <Entry x:Name="entryUsername" Placeholder="Username" />
+            <Label x:Name="labelPassword" Text="Password" />
+            <Entry x:Name="entryPassword" Placeholder="Password" />
+            <Button x:Name="buttonLogin" Text="Login" Clicked="LoginProcedure"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
